@@ -1,0 +1,5 @@
+Admin,1,Admin,admin@example.com
+Student,2,alikheiri,alikheiri@gmail.com,computer
+Student,3,ali,alisda,sda
+Professor,4,doktor nahid mabhot,mabhot@gmail.com,madov
+Professor,355,m,d,12
